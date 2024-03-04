@@ -17,7 +17,7 @@ Os códigos são projetados para serem executados diretamente no Google Colab, p
 
 Os notebooks podem ser executados diretamente no Google Colab. Basta seguir os links abaixo:
 
-- [**codigo_1.ipynb**]([https://colab.research.google.com/Link_para_codigo_1](https://colab.research.google.com/drive/1cfaWoW_7kQay29f0Y_2fSL0eEL_K_4U6?usp=sharing)
+- [**codigo_1.ipynb**](https://colab.research.google.com/Link_para_codigo_1](https://colab.research.google.com/drive/1cfaWoW_7kQay29f0Y_2fSL0eEL_K_4U6?usp=sharing )
 - [**codigo_2.ipynb**](https://colab.research.google.com/drive/1IxE_cqzmSVsMS9EYum-5EeM7iQnG56eT?usp=drive_link)
 - [**codigo_3.ipynb**](https://colab.research.google.com/drive/1TlsA_OI9Fa2h6UAJpeXm80hJPOi0LRzD?usp=drive_link)
 - [**codigo_4.ipynb**](https://colab.research.google.com/drive/1RHAvGmYwaM_psCVFFV8IF_Gnm-wkX4xf?usp=drive_link)
