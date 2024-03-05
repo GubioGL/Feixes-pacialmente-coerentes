@@ -13,6 +13,7 @@ Os códigos são projetados para serem executados diretamente no Google Colab, p
 
 - **codigo_4.ipynb:** Neste notebook, aplicamos o feixe GSM à fenda dupla e verificamos o grau de coerência do feixe.
 
+- **codigo_4.ipynb:** No codigo 5 obtemos a intesidade do feixe GSM com a decomposiçao em pseudos modos.
 ## Executando os Notebooks
 
 Os notebooks podem ser executados diretamente no Google Colab. Basta seguir os links abaixo:
