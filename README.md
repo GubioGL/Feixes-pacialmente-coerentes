@@ -15,9 +15,9 @@ Os códigos são projetados para serem executados diretamente no Google Colab, p
 
 - **codigo_5.ipynb:** No codigo 5 obtemos a intesidade do feixe GSM com a decomposiçao em pseudos modos.
 
-- **codigo_6.ipynb:** No codigo 6
+- **codigo_6.ipynb:** No codigo 6, determinamos o número de modos na soma coerente e incoerente, utilizados na decomposiçao em pseudos modos.
 
-- **codigo_5.ipynb:** No codigo 7
+- **codigo_5.ipynb:** No codigo 7, utilizamos o feixe GSM gerado para realizar o experimento de fenda dupla e determinar a visibilidade.
 ## Executando os Notebooks
 
 Os notebooks podem ser executados diretamente no Google Colab. Basta seguir os links abaixo:
@@ -26,9 +26,9 @@ Os notebooks podem ser executados diretamente no Google Colab. Basta seguir os l
 - [**codigo_2.ipynb**](https://colab.research.google.com/drive/1IxE_cqzmSVsMS9EYum-5EeM7iQnG56eT?usp=drive_link)
 - [**codigo_3.ipynb**](https://colab.research.google.com/drive/1TlsA_OI9Fa2h6UAJpeXm80hJPOi0LRzD?usp=drive_link)
 - [**codigo_4.ipynb**](https://colab.research.google.com/drive/1RHAvGmYwaM_psCVFFV8IF_Gnm-wkX4xf?usp=drive_link)
-- [**codigo_5.ipynb**]()
-- [**codigo_6.ipynb**]()
-- [**codigo_7.ipynb**]()
+- [**codigo_5.ipynb**](https://colab.research.google.com/drive/1H-0bhR-NAUemY0VDAF6itJHMnyXhQLOs?usp=sharing)
+- [**codigo_6.ipynb**](https://colab.research.google.com/drive/1_EKw1TqVODn5SpvLrq13OcS9Vtpl7rJV?usp=sharing)
+- [**codigo_7.ipynb**](https://colab.research.google.com/drive/1AzzkUAmx6RYMLjAR8BRm49NZpoggVIkG?usp=sharing)
 
 ## Contribuições
 
