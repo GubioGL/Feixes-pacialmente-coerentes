@@ -17,7 +17,8 @@ Os códigos são projetados para serem executados diretamente no Google Colab, p
 
 - **codigo_6.ipynb:** No codigo 6, determinamos o número de modos na soma coerente e incoerente, utilizados na decomposiçao em pseudos modos.
 
-- **codigo_5.ipynb:** No codigo 7, utilizamos o feixe GSM gerado para realizar o experimento de fenda dupla e determinar a visibilidade.
+- **codigo_7.ipynb:** No codigo 7, utilizamos o feixe GSM gerado para realizar o experimento de fenda dupla e determinar a visibilidade.
+
 ## Executando os Notebooks
 
 Os notebooks podem ser executados diretamente no Google Colab. Basta seguir os links abaixo:
