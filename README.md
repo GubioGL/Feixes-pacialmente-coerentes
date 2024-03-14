@@ -19,7 +19,7 @@ Os códigos são projetados para serem executados diretamente no Google Colab, p
 
 - [**codigo_7.ipynb**](https://colab.research.google.com/drive/1AzzkUAmx6RYMLjAR8BRm49NZpoggVIkG?usp=sharing): No codigo 7, utilizamos o feixe GSM gerado para realizar o experimento de fenda dupla e determinar a visibilidade.
 
-**Os notebooks podem ser executados diretamente no Google Colab. Basta seguir os links abaixo:v
+**Os notebooks podem ser executados diretamente no Google Colab, Basta seguir os links acima :v
 
 ## Contribuições
 
