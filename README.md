@@ -29,8 +29,7 @@ Sinta-se à vontade para contribuir ou fazer sugestões. Se encontrar algum prob
 
 Para qualquer dúvida ou esclarecimento, entre em contato:
 
-- Gubio
-- gubiofisika@gmail.com
+- Gubio: gubiofisika@gmail.com
 
 Apreciamos sua colaboração!
 
