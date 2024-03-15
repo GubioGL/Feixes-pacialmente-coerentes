@@ -1,6 +1,6 @@
 # Simulações de Feixes Parcialmente Coerentes
 
-Este repositório contém os arquivos de simulação mencionados no artigo "Feixe parcialmente coerente: Teoria e simulação". 
+Este repositório contém os arquivos de simulação mencionados no artigo "[Feixe parcialmente coerente: Teoria e simulação](https://arxiv.org/html/2403.09306v1)". 
 Os códigos são projetados para serem executados diretamente no Google Colab, proporcionando uma experiência fácil e interativa.
 
 ## Conteúdo do Repositório
