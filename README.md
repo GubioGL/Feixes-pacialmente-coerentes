@@ -1,35 +1,33 @@
-# Simulações de Feixes Parcialmente Coerentes
+# Simulations of Partially Coherent Beams
 
-Este repositório contém os arquivos de simulação mencionados no artigo "[Feixe parcialmente coerente: Teoria e simulação](https://arxiv.org/html/2403.09306v1)". 
-Os códigos são projetados para serem executados diretamente no Google Colab, proporcionando uma experiência fácil e interativa.
+This repository contains the simulation files mentioned in the article "[Partially Coherent Beam: Theory and Simulation](https://arxiv.org/html/2403.09306v1)". The codes are designed to be executed directly on Google Colab, providing an easy and interactive experience.
 
-## Conteúdo do Repositório
+## Repository Contents
 
-- [**codigo_1.ipynb**](https://colab.research.google.com/drive/1cfaWoW_7kQay29f0Y_2fSL0eEL_K_4U6?usp=sharing): Este notebook fornece um passo a passo simplificado sobre como gerar e visualizar a intensidade de um feixe de luz.
+- [**codigo_1.ipynb**](https://colab.research.google.com/drive/1cfaWoW_7kQay29f0Y_2fSL0eEL_K_4U6?usp=sharing): This notebook provides a simplified step-by-step guide on how to generate and visualize the intensity of a light beam.
 
-- [**codigo_2.ipynb**](https://colab.research.google.com/drive/1IxE_cqzmSVsMS9EYum-5EeM7iQnG56eT?usp=sharing): Neste notebook, geramos um feixe Gaussian Schell Model (GSM) usando a decomposição de modos coerentes. Comparamos a intensidade da simulação com o teórico e determinamos o valor de truncamento de decomposição ideal.
+- [**codigo_2.ipynb**](https://colab.research.google.com/drive/1IxE_cqzmSVsMS9EYum-5EeM7iQnG56eT?usp=sharing): In this notebook, we generate a Gaussian Schell Model (GSM) beam using coherent mode decomposition. We compare the simulation intensity with the theoretical and determine the ideal truncation value for decomposition.
 
-- [**codigo_3.ipynb**](https://colab.research.google.com/drive/1TlsA_OI9Fa2h6UAJpeXm80hJPOi0LRzD?usp=sharing): Utilizamos o feixe GSM para determinar a densidade espectral cruzada normalizada.
+- [**codigo_3.ipynb**](https://colab.research.google.com/drive/1TlsA_OI9Fa2h6UAJpeXm80hJPOi0LRzD?usp=sharing): We use the GSM beam to determine the normalized cross-spectral density.
 
-- [**codigo_4.ipynb**](https://colab.research.google.com/drive/1RHAvGmYwaM_psCVFFV8IF_Gnm-wkX4xf?usp=sharing): Neste notebook, aplicamos o feixe GSM à fenda dupla e verificamos o grau de coerência do feixe.
+- [**codigo_4.ipynb**](https://colab.research.google.com/drive/1RHAvGmYwaM_psCVFFV8IF_Gnm-wkX4xf?usp=sharing): In this notebook, we apply the GSM beam to a double slit and check the beam's degree of coherence.
 
-- [**codigo_5.ipynb**](https://colab.research.google.com/drive/1H-0bhR-NAUemY0VDAF6itJHMnyXhQLOs?usp=sharing): No codigo 5 obtemos a intesidade do feixe GSM com a decomposiçao em pseudos modos.
+- [**codigo_5.ipynb**](https://colab.research.google.com/drive/1H-0bhR-NAUemY0VDAF6itJHMnyXhQLOs?usp=sharing): In code 5, we obtain the intensity of the GSM beam with the decomposition in pseudomodes.
 
-- [**codigo_6.ipynb**](https://colab.research.google.com/drive/1_EKw1TqVODn5SpvLrq13OcS9Vtpl7rJV?usp=sharing): No codigo 6, determinamos o número de modos na soma coerente e incoerente, utilizados na decomposiçao em pseudos modos.
+- [**codigo_6.ipynb**](https://colab.research.google.com/drive/1_EKw1TqVODn5SpvLrq13OcS9Vtpl7rJV?usp=sharing): In code 6, we determine the number of modes in the coherent and incoherent sum used in the decomposition in pseudomodes.
 
-- [**codigo_7.ipynb**](https://colab.research.google.com/drive/1AzzkUAmx6RYMLjAR8BRm49NZpoggVIkG?usp=sharing): No codigo 7, utilizamos o feixe GSM gerado para realizar o experimento de fenda dupla e determinar a visibilidade.
+- [**codigo_7.ipynb**](https://colab.research.google.com/drive/1AzzkUAmx6RYMLjAR8BRm49NZpoggVIkG?usp=sharing): In code 7, we use the generated GSM beam to perform the double slit experiment and determine visibility.
 
-**Os notebooks podem ser executados diretamente no Google Colab, Basta seguir os links acima :v
+**The notebooks can be executed directly on Google Colab. Just follow the links above :v
 
-## Contribuições
+## Contributions
 
-Sinta-se à vontade para contribuir ou fazer sugestões. Se encontrar algum problema nos códigos ou tiver ideias para melhorias, abra uma "issue" ou envie um "pull request".
+Feel free to contribute or make suggestions. If you encounter any issues with the codes or have ideas for improvements, open an "issue" or submit a "pull request".
 
-## Contato
+## Contact
 
-Para qualquer dúvida ou esclarecimento, entre em contato:
+For any questions or clarifications, contact:
 
 - Gubio: gubiofisika@gmail.com
 
-Apreciamos sua colaboração!
-
+We appreciate your collaboration!
